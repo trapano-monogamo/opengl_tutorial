@@ -1,0 +1,3 @@
+/home/noemi/projects/cpp/opengl_tutorial/build/CMakeFiles/myopengl.dir
+/home/noemi/projects/cpp/opengl_tutorial/build/CMakeFiles/edit_cache.dir
+/home/noemi/projects/cpp/opengl_tutorial/build/CMakeFiles/rebuild_cache.dir

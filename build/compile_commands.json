@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/noemi/projects/cpp/opengl_tutorial/build",
+  "command": "/usr/bin/c++  -I/home/noemi/projects/cpp/opengl_tutorial/include -std=gnu++17 -o CMakeFiles/myopengl.dir/src/engine/Camera.cpp.o -c /home/noemi/projects/cpp/opengl_tutorial/src/engine/Camera.cpp",
+  "file": "/home/noemi/projects/cpp/opengl_tutorial/src/engine/Camera.cpp"
+},
+{
+  "directory": "/home/noemi/projects/cpp/opengl_tutorial/build",
+  "command": "/usr/bin/c++  -I/home/noemi/projects/cpp/opengl_tutorial/include -std=gnu++17 -o CMakeFiles/myopengl.dir/src/engine/Object.cpp.o -c /home/noemi/projects/cpp/opengl_tutorial/src/engine/Object.cpp",
+  "file": "/home/noemi/projects/cpp/opengl_tutorial/src/engine/Object.cpp"
+},
+{
+  "directory": "/home/noemi/projects/cpp/opengl_tutorial/build",
+  "command": "/usr/bin/c++  -I/home/noemi/projects/cpp/opengl_tutorial/include -std=gnu++17 -o CMakeFiles/myopengl.dir/src/engine/Render.cpp.o -c /home/noemi/projects/cpp/opengl_tutorial/src/engine/Render.cpp",
+  "file": "/home/noemi/projects/cpp/opengl_tutorial/src/engine/Render.cpp"
+},
+{
+  "directory": "/home/noemi/projects/cpp/opengl_tutorial/build",
+  "command": "/usr/bin/c++  -I/home/noemi/projects/cpp/opengl_tutorial/include -std=gnu++17 -o CMakeFiles/myopengl.dir/src/engine/Renderable.cpp.o -c /home/noemi/projects/cpp/opengl_tutorial/src/engine/Renderable.cpp",
+  "file": "/home/noemi/projects/cpp/opengl_tutorial/src/engine/Renderable.cpp"
+},
+{
+  "directory": "/home/noemi/projects/cpp/opengl_tutorial/build",
+  "command": "/usr/bin/c++  -I/home/noemi/projects/cpp/opengl_tutorial/include -std=gnu++17 -o CMakeFiles/myopengl.dir/src/engine/Renderer.cpp.o -c /home/noemi/projects/cpp/opengl_tutorial/src/engine/Renderer.cpp",
+  "file": "/home/noemi/projects/cpp/opengl_tutorial/src/engine/Renderer.cpp"
+},
+{
+  "directory": "/home/noemi/projects/cpp/opengl_tutorial/build",
+  "command": "/usr/bin/c++  -I/home/noemi/projects/cpp/opengl_tutorial/include -std=gnu++17 -o CMakeFiles/myopengl.dir/src/engine/Shader.cpp.o -c /home/noemi/projects/cpp/opengl_tutorial/src/engine/Shader.cpp",
+  "file": "/home/noemi/projects/cpp/opengl_tutorial/src/engine/Shader.cpp"
+},
+{
+  "directory": "/home/noemi/projects/cpp/opengl_tutorial/build",
+  "command": "/usr/bin/c++  -I/home/noemi/projects/cpp/opengl_tutorial/include -std=gnu++17 -o CMakeFiles/myopengl.dir/src/engine/Transform.cpp.o -c /home/noemi/projects/cpp/opengl_tutorial/src/engine/Transform.cpp",
+  "file": "/home/noemi/projects/cpp/opengl_tutorial/src/engine/Transform.cpp"
+},
+{
+  "directory": "/home/noemi/projects/cpp/opengl_tutorial/build",
+  "command": "/usr/bin/c++  -I/home/noemi/projects/cpp/opengl_tutorial/include -std=gnu++17 -o CMakeFiles/myopengl.dir/src/engine/VertexArray.cpp.o -c /home/noemi/projects/cpp/opengl_tutorial/src/engine/VertexArray.cpp",
+  "file": "/home/noemi/projects/cpp/opengl_tutorial/src/engine/VertexArray.cpp"
+},
+{
+  "directory": "/home/noemi/projects/cpp/opengl_tutorial/build",
+  "command": "/usr/bin/c++  -I/home/noemi/projects/cpp/opengl_tutorial/include -std=gnu++17 -o CMakeFiles/myopengl.dir/src/engine/Window.cpp.o -c /home/noemi/projects/cpp/opengl_tutorial/src/engine/Window.cpp",
+  "file": "/home/noemi/projects/cpp/opengl_tutorial/src/engine/Window.cpp"
+},
+{
+  "directory": "/home/noemi/projects/cpp/opengl_tutorial/build",
+  "command": "/usr/bin/cc  -I/home/noemi/projects/cpp/opengl_tutorial/include  -o CMakeFiles/myopengl.dir/src/glad.c.o -c /home/noemi/projects/cpp/opengl_tutorial/src/glad.c",
+  "file": "/home/noemi/projects/cpp/opengl_tutorial/src/glad.c"
+},
+{
+  "directory": "/home/noemi/projects/cpp/opengl_tutorial/build",
+  "command": "/usr/bin/c++  -I/home/noemi/projects/cpp/opengl_tutorial/include -std=gnu++17 -o CMakeFiles/myopengl.dir/src/main.cpp.o -c /home/noemi/projects/cpp/opengl_tutorial/src/main.cpp",
+  "file": "/home/noemi/projects/cpp/opengl_tutorial/src/main.cpp"
+},
+{
+  "directory": "/home/noemi/projects/cpp/opengl_tutorial/build",
+  "command": "/usr/bin/c++  -I/home/noemi/projects/cpp/opengl_tutorial/include -std=gnu++17 -o CMakeFiles/myopengl.dir/src/my_utils.cpp.o -c /home/noemi/projects/cpp/opengl_tutorial/src/my_utils.cpp",
+  "file": "/home/noemi/projects/cpp/opengl_tutorial/src/my_utils.cpp"
+}
+]
